@@ -44,7 +44,7 @@ Table of Contents:
     - [LLM Framework Tools](#llm-framework-tools) (5)
     - [AI Agent Deployment](#ai-agent-deployment) (5)
     - [AI Application Development](#ai-application-development) (11)
-    - [AI Developer Toolkit](#ai-developer-toolkit) (15)
+    - [AI Developer Toolkit](#ai-developer-toolkit) (16)
     - [AI Agent Operating System](#ai-agent-operating-system) (11)
     - [AI Agent Gateway](#ai-agent-gateway) (13)
     - [MCP Server Framework](#mcp-server-framework) (14)
@@ -436,6 +436,7 @@ Table of Contents:
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) (9479 Rust) - Worktrunk is a CLI for Git worktree management, streamlining parallel AI agent workflows and simplifying common Git worktree tasks with advanced automation features.
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) (13182 TypeScript) - React Doctor is an intelligent agent designed to diagnose and fix issues within React codebases, leveraging AI to improve code quality and developer efficiency.
 - [nikivdev/flow](https://github.com/nikivdev/flow) (21101 Rust) - Flow is a command-line interface tool designed to accelerate project development and automation, integrating with AI for enhanced workflows.
+- [nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node) (0 TypeScript) - Local CLI and stdio MCP payment runtime for AI agents with owner-set limits, command-specific foreground approval, status and receipts; macOS Apple Silicon only.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) (36276 TypeScript) - AgentGPT is an open-source platform that allows users to assemble, configure, and deploy autonomous AI agents in a web browser to pursue custom goals by generating and executing tasks independently.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) (78568 Python) - Unsloth is a toolkit for fine-tuning and reinforcement learning of large language models, enabling faster training with significantly reduced VRAM usage across various advanced models and tasks.
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) (36105 Python) - A command-line tool that converts technical books, document folders or globs into structured agent skills in the open SKILL.md format, so coding agents load only the chapter relevant to a question.
